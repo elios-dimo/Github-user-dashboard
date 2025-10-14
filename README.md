@@ -22,4 +22,4 @@ React.js: Επιλέχθηκε για την component-based αρχιτεκτο�
 
 Vite: Χρησιμοποιήθηκε αντί του create-react-app για την κορυφαία του ταχύτητα. 
 
-Tailwind CSS: Επιλέχθηκε για το utility-first σύστημά του, που επιτρέπει το γρήγορο styling απευθείας μέσα στο JSX. 
+Tailwind CSS: Επιλέχθηκε για το γρήγορο styling απευθείας μέσα στο JSX. 
