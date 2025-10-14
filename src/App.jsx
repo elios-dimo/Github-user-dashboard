@@ -7,7 +7,7 @@ import Followers from './components/Followers';
 function App() {
   //  Δήλωση States 
   const [username, setUsername] = useState('');
-  const [searchTerm, setSearchTerm] = useState('taylorotwell');
+  const [searchTerm, setSearchTerm] = useState('elios-dimo');
   const [profile, setProfile] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
